@@ -4,7 +4,7 @@ An LSPDFR flavor mod for a more realistic officer experience.
 
 ## Getting Started
 
-Build a solution for the project in your preferred IDE, which will get you a DLL that you can use
+Build a solution of the project in your preferred IDE, which will get you a DLL that you can use
 
 ### Prerequisites
 
